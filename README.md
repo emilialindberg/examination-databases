@@ -1,2 +1,2 @@
 # examination-databases
-Movie-review with CRUD-operations, datamodeleling, relations between  models, authentication (JWT), and MVC-structure. 
+Movie-review with CRUD-operations, datamodeling, relations between models, authentication (JWT), and MVC-structure. 
