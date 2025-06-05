@@ -26,7 +26,7 @@ Postman (for testing APIs)
 1. ## Clone the repository
 bash: git clone https://github.com/emilialindberg/examination-databases/
 
-2. ## cd examination-individuell
+2. cd examination-individuell
 
 3. ## Install dependencies
 bash: npm install
