@@ -27,7 +27,7 @@ Postman (for testing APIs)
 bash
 git clone <your_repo_url>
 
-2.cd your_project_name
+2. cd examination-individuell
 
 3. Install dependencies
 bash
