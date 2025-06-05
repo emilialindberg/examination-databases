@@ -23,26 +23,23 @@ MongoDB (locally installed or cloud-based)
 Postman (for testing APIs)
 
 ## Installation
-1. Clone the repository
-bash
-git clone https://github.com/emilialindberg/examination-databases/
+1. ## Clone the repository
+bash: git clone https://github.com/emilialindberg/examination-databases/
 
-2. cd examination-individuell
+2. ## cd examination-individuell
 
-3. Install dependencies
-bash
-npm install
+3. ## Install dependencies
+bash: npm install
 
-5. Configure environment variables
+5. ## Configure environment variables
 Create a .env file in the root of the project based on .env.example
-bash
-cp .env.example .env
+bash: cp .env.example .env
 Fill in your values (secret key, database URL)
 
-7. Start the database
+7. ## Start the database
 Make sure MongoDB is running locally (mongod)
 Or connect to your cloud MongoDB Atlas instance, update the URL in .env
 
-9. Start the server
+9. ## Start the server
 bash
 npm start
